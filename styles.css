@@ -1,7 +1,7 @@
 
 
 body {
-  background-color: Aqua;
+  background-color: Black;
 }
 
 h1 {
@@ -10,6 +10,6 @@ h1 {
 }
 
 p {
-  font-family: verdana;
+  font-family: 'gothamblack';
   font-size: 40px;
 }
