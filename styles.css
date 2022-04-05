@@ -1,7 +1,7 @@
 
 
 body {
-  background-color: Black;
+  background-color: black;
 }
 
 h1 {
@@ -10,6 +10,6 @@ h1 {
 }
 
 p {
-  font-family: 'gothamblack';
+  font-family: 'arial';
   font-size: 40px;
 }
